@@ -44,7 +44,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-107-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -58,7 +58,7 @@
           },
           "title": "RPPhoto",
           "text": "<p>Photography<br>Fotókat készítek egyedi kérésekre: <br>Esküvő; Rendezvények; Egyedi Portré<br> megrendelések; Interior fotókat.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html#gallery1-3\" data-toolbar=\"-mbrBtnMove\">PORTÓLIÓ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/rpphotoo/\" data-toolbar=\"-mbrBtnMove\">FACEBOOK OLDAL</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html#gallery1-3\" data-toolbar=\"-mbrBtnMove\">PORTFÓLIÓ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://www.facebook.com/rpphotoo/\" data-toolbar=\"-mbrBtnMove\">FACEBOOK OLDAL</a> ",
           "_tags": [
             "Theme"
           ],
