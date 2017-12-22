@@ -45,7 +45,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-1556-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-129-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -71,7 +71,8 @@
             },
             ".mbr-section-lead P": {
               "font-size": "20px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             ".btn": {
               "font-size": "16px"
