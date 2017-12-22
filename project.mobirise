@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-16_1844",
-    "currentPage": "page1.html",
+    "currentPage": "rpphoto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -44,7 +44,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-107-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1556-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
