@@ -53,8 +53,8 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#000",
+            "overlay": true,
+            "overlayColor": "#000000",
             "overlayOpacity": 0.5
           },
           "title": "RPPhoto",
