@@ -59,7 +59,7 @@
           },
           "title": "RPPhoto",
           "text": "<p>Photography<br>Fotókat készítek egyedi kérésekre: <br>Esküvő; Rendezvények; Egyedi Portré<br> megrendelések; Interior fotók.</p>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.facebook.com/rpphotoo/\" data-toolbar=\"-mbrBtnMove\">Facebook</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html#gallery1-3\" data-toolbar=\"-mbrBtnMove\">Portfólió</a>   ",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.facebook.com/rpphotoo/\" data-toolbar=\"-mbrBtnMove\">Facebook</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"rpphoto.html#gallery1-5\" data-toolbar=\"-mbrBtnMove\">Portfólió</a>   ",
           "_tags": [
             "Theme"
           ],
