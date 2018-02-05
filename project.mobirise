@@ -94,12 +94,34 @@
             "filter": false,
             "images": [
               {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-366-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-366-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/portfolio-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/portfolio-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0477-2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0477-2-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -125,6 +147,17 @@
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-485-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-485-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -223,7 +256,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mg-60-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
