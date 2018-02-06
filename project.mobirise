@@ -24,9 +24,11 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 6,
-    "versionPublish": "4.4.1",
+    "versionPublish": "4.6.4",
     "favicon": "@PROJECT_PATH@/assets/images/rpphotoprofilkep-128x128.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "rpphoto.html": {
