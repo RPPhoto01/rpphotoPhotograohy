@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 6,
+    "uniqCompNum": 8,
     "versionPublish": "4.6.4",
     "favicon": "@PROJECT_PATH@/assets/images/rpphotoprofilkep-128x128.png",
     "noImageResize": "",
@@ -63,7 +63,7 @@
           },
           "title": "RPPhoto",
           "text": "<p>Photography<br>Fotókat készítek egyedi kérésekre: <br>Esküvő; Rendezvények; Egyedi Portré<br> megrendelések; Interior fotók.</p>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.facebook.com/rpphotoo/\" data-toolbar=\"-mbrBtnMove\">Facebook</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"rpphoto.html#gallery1-5\" data-toolbar=\"-mbrBtnMove\">Portfólió</a>   ",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.facebook.com/rpphotoo/\" data-toolbar=\"-mbrBtnMove\">Facebook</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"rpphoto.html#gallery4-7\" data-toolbar=\"-mbrBtnMove\">Portfólió</a>   ",
           "_tags": [
             "Theme"
           ],
@@ -84,19 +84,20 @@
           }
         },
         {
+          "_inherit": "gallery1",
           "_params": {
-            "showBullets": false,
+            "showBullets": true,
             "fullWidth": false,
-            "spacing": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "filterBgColor": false,
-            "bgColor": "#000000",
+            "bgColor": "#cccccc",
             "showText": false,
-            "filter": false,
+            "filter": true,
             "images": [
               {
-                "tags": "Animated",
+                "tags": "Portré",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -107,18 +108,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/portfolio-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/portfolio-2000x3000-800x1200.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
+                "tags": "Portré",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -129,29 +119,7 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/23698525-906860032799017-1389295906-o-1-1208x1812.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/23698525-906860032799017-1389295906-o-1-1208x1812-800x1200.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/23714951-906859716132382-1966512955-o-1812x1208.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/23714951-906859716132382-1966512955-o-1812x1208-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
+                "tags": "Portré",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -159,43 +127,43 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mg-485-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tájkép",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-714-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-714-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Utazás",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/19238116-325951337828257-1904138000816009731-o-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19238116-325951337828257-1904138000816009731-o-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tájkép",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/26024172-389389131484477-2504221751200003604-o-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/26024172-389389131484477-2504221751200003604-o-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
                 "active": true
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-16-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-16-2000x3000-800x1200.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-93-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-93-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/23600120-1263013993803916-909369009-o-1-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/23600120-1263013993803916-909369009-o-1-1920x1280-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
+                "tags": "Portré",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -206,40 +174,62 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Portré",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/23600229-1263014903803825-767047834-o-1-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/23600229-1263014903803825-767047834-o-1-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-491-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-491-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Portré",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-703-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-703-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-372-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-372-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Portré",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-704-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-704-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-16-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-16-2000x3000-800x1200.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-93-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-93-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-61-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-61-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Portré",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -250,25 +240,25 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Portré",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-mg-60-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-60-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-22-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-22-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               }
             ]
           },
-          "articleLayout": false,
-          "allItem": "All",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-5"
+          "articleLayout": false,
+          "allItem": "Mind<br>",
+          "_name": "gallery4",
+          "_anchor": "gallery4-7"
         }
       ]
     }
