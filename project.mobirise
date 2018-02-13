@@ -112,6 +112,17 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-432-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-432-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/-mg-0477-2-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-0477-2-2000x1333-800x533.jpg",
                 "alt": "",
@@ -125,6 +136,39 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/-mg-485-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-485-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/portfolio2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/portfolio2-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-491-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-491-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-372-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-372-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -158,39 +202,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/26024172-389389131484477-2504221751200003604-o-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/26024172-389389131484477-2504221751200003604-o-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Portré",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/portfolio2-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/portfolio2-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Portré",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-mg-491-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-491-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Portré",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-mg-372-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-372-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
