@@ -112,11 +112,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/larcsi-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/larcsi-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gabi-8-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gabi-8-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true,
+                "title": ""
               },
               {
                 "tags": "Portré",
@@ -244,17 +245,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-mg-45-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-45-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Portré",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-22-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-22-2000x1333-800x533.jpg",
                 "alt": "",
@@ -266,12 +256,22 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/gabi-8-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gabi-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-45-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-45-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true,
-                "title": ""
+                "active": false
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/larcsi-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/larcsi-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
