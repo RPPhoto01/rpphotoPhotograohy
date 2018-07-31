@@ -88,7 +88,7 @@
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": "0",
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
             "filterBgColor": false,
@@ -96,29 +96,6 @@
             "showText": false,
             "filter": true,
             "images": [
-              {
-                "tags": "Portré",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-mg-366-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-366-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Portré",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/gabi-8-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gabi-8-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true,
-                "title": ""
-              },
               {
                 "tags": "Portré",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -135,8 +112,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-mg-485-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-485-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-366-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-366-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -157,8 +134,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-mg-491-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-491-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-485-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-485-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -168,8 +145,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-mg-372-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-372-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-491-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-491-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -197,12 +174,34 @@
                 "active": false
               },
               {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-372-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-372-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Tájkép",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/26024172-389389131484477-2504221751200003604-o-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/26024172-389389131484477-2504221751200003604-o-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-22-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-22-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -245,11 +244,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-22-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-22-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gabi-20-2000x2213.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gabi-20-2000x2213-800x885.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Portré",
@@ -272,6 +272,54 @@
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gabi-8-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gabi-8-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gabi-2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gabi-2-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gabi21-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gabi21-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gabi-10-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gabi-10-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
               }
             ]
           },
