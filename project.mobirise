@@ -101,8 +101,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/gabi-8-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gabi-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gabi-10-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gabi-10-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false,
@@ -113,11 +113,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/gabi-10-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gabi-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dorina-oldal-kp-3-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dorina-oldal-kp-3-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "title": ""
               },
               {
@@ -149,8 +149,32 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-mg-366-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-366-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gabi-8-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gabi-8-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gabi-20-2000x2213.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gabi-20-2000x2213-800x885.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0477-2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0477-2-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -160,8 +184,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-mg-0477-2-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-0477-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-366-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-366-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -209,18 +233,6 @@
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Portré",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/gabi-20-2000x2213.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gabi-20-2000x2213-800x885.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false,
-                "title": ""
               },
               {
                 "tags": "Utazás",
@@ -271,17 +283,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-16-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-16-2000x3000-800x1200.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Portré",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-93-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-93-2000x1333-800x533.jpg",
                 "alt": "",
@@ -320,6 +321,41 @@
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-16-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-16-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dorina-oldal-kp-1-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dorina-oldal-kp-1-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Portré",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dorina-oldal-kp-2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dorina-oldal-kp-2-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
               }
             ]
           },
